@@ -20,11 +20,11 @@ html {
 
 .img-flex {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 a {
-  color: currentColor
+  color: currentColor;
 }
 
 .card {
